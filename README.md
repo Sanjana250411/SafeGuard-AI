@@ -5,7 +5,6 @@
 ## 🔗 Live Demo
 
 **Try the application:**
-https://safeguard-ai-734646590467.asia-southeast1.run.app
 https://safeher-ai-2gca.onrender.com
 
 ---
